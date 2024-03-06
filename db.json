@@ -1,0 +1,72 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "JS desde Cero"
+        }
+      ],
+      "id": "591e"
+    },
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "Dev",
+        "materias": [
+          {
+            "nombre": "Quimica desde Cero"
+          },
+          {
+            "nombre": "Biologia desde Cero"
+          },
+          {
+            "nombre": "Ciencias desde Cero"
+          }
+        ]
+      },
+      "id": "4e24"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Omar",
+      "apellido": "Reyes",
+      "promedio": 8.2,
+      "id": "20a7"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "3885"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duración": 7,
+      "dificultad": "intermedia",
+      "id": "a74d"
+    },
+    {
+      "nombre": "Astro desde cero",
+      "duración": 4,
+      "dificultad": "baja",
+      "id": "6ad4"
+    },
+    {
+      "nombre": "SQL desde cero",
+      "duración": 9,
+      "dificultad": "alta",
+      "id": "48ff"
+    }
+  ]
+}
